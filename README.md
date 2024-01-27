@@ -1,3 +1,7 @@
+## Modern Next 14 Server Side App with Server Actions, Infinite Scroll & Framer Motion Animations
+
+<img width="1440" alt="Screenshot 2024-01-26 at 15 57 37" src="https://github.com/jooaogbriel/Next14-Server-Side-App/assets/99376449/d6823976-ce9e-413b-b621-a5c8005f1ade">
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
